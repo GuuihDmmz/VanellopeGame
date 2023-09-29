@@ -11,10 +11,15 @@ main{
   position:absolute;
 
    left: 150px;
-   
+
 canvas {
   display: block;
 }
 
 
+}
+main {
+  position:absolute;
+  top: 350px;
+  left: 180px;
 }
