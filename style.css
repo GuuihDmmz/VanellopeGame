@@ -10,7 +10,8 @@ html, body {
 main{
   position:absolute;
 
-   left: 150px;
+   right: 150px;
+
 
 canvas {
   display: block;
