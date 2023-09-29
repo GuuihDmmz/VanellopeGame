@@ -5,9 +5,16 @@ html, body {
 
   text-align: center;
   text-decoration-color: pink;
+
 }
+main{
+  position:absolute;
+
+   left: 150px;
+   
 canvas {
   display: block;
 }
 
 
+}
